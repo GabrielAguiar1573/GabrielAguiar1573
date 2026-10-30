@@ -53,10 +53,6 @@ I'm currently spending most of my study time on:
 
 My next goal is to keep increasing the scope of my Godot projects while continuing to improve my C++ fundamentals.
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielAguiar1573&show_icons=true&hide_title=true)
-
 ## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/gabriel-henrique-de-aguiar-silva/)
